@@ -2,3 +2,15 @@
     background-image: url('https://picsum.photos/1300/500');
     background-position: center center;
 }
+#herotext {
+    font-family: papyrus;
+    text-decoration: underline;
+}
+p {
+    font-family: lucida handwriting;
+}
+h5 {
+    font-family: papyrus;
+    font-weight: bold;
+    text-decoration: underline;
+}
